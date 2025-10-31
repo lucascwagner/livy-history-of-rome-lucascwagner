@@ -3,9 +3,9 @@
 # The History of Rome
 
 
-##*Ab Urbe Condita*
+## *Ab Urbe Condita*
 
-##*Books I-X*
+## *Books I-X*
 
 
 
@@ -17,18 +17,7 @@ Titus Livius (Livy)
 **Translated by**
 
 Lucas C. Wagner
-
 with Christine H. Wagner
 
 
-
-
-
-
-
-https://lucascwagner.com
-
-
-
-
-*(c)2026, Lucas C. Wagner. This work is dedicated to the public domain (CC0) and no permission is needed to use it for any purpose. Please see LICENSE.txt for more information.*
+*(c)2026, Lucas C. Wagner (https://lucascwagner.com). This work is dedicated to the public domain (CC0) and no permission is needed to use it for any purpose. Please see LICENSE.txt for more information.*
